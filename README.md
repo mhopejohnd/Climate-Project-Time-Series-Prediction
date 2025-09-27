@@ -1,6 +1,6 @@
 # Climate-Project-Time-Series-Prediction
 
-Completed as part of a undergraduate project for a class "Mathematics in Climate". I am currently using an alterior forecasting and prediction model or technique and analyzing the differenc ein methods.
+Completed as part of a undergraduate project for a class "Mathematics in Climate". I am currently using an alterior forecasting and prediction model or technique and analyzing the difference in methods.
 
 ## Abstract (copied from paper)
 In the method of forecasting, its use of past data can create a somewhat accurate
