@@ -23,3 +23,9 @@ Exponential Smoothing for Time Series(ETS) Forecasting: https://www.geeksforgeek
 The forcasting mathod I used was excel's built-in ETS function. Although it does take into account the seasonality that occurs with a climate variable like air temperature, this function is typically used when trying to predict demand like many might in common business scenarios. 
 However, I wanted to see if there was a better forecasting method or prediction model I could use that would yields a more accurate result in a climate-data setting. I further plan to analyze the error, and see where the differences between the two different methods lie. (**this is currently in the works**)
 
+    #### linear regression (this should have more errors)
+
+    #### random forest
+
+    #### Seasonal AutoRegressive Integrated Moving Average (SARIMA)
+
