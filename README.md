@@ -25,6 +25,7 @@ However, I wanted to see if there was a better forecasting method or prediction 
 
 
 #### linear regression (this should have more errors)
+  - This shouldn't work since the relationship between varaibles is non-linear (because of seasonality)
 
 #### random forest
 
