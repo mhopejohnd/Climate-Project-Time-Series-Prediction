@@ -12,10 +12,12 @@ for the subsequent year 2021. The error of the forecasted data against the actua
 measured data is analyzed at different regions of the United States with different climate
 behaviors and seasonality trends and is investigated for potential reasons why.
 
-## Continued Contributions
-During this analysis and the deadline I was on for the project, I used Microsoft Excel's built-in forecasting function. 
-
+### Forecase method used
 ##### read more about
 excel's forecast function: https://support.microsoft.com/en-us/office/create-a-forecast-in-excel-for-windows-22c500da-6da7-45e5-bfdc-60a7062329fd#bkmk_calculation
 
 Exponential Smoothing for Time Series(ETS) Forecasting: https://www.geeksforgeeks.org/artificial-intelligence/exponential-smoothing-for-time-series-forecasting/
+
+## Continued Contributions
+During this analysis and the deadline I was on for the project, I used Microsoft Excel's built-in forecasting function. 
+
