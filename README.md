@@ -17,4 +17,5 @@ During this analysis and the deadline I was on for the project, I used Microsoft
 
 ##### read more about
 excel's forecast function: https://support.microsoft.com/en-us/office/create-a-forecast-in-excel-for-windows-22c500da-6da7-45e5-bfdc-60a7062329fd#bkmk_calculation
+
 Exponential Smoothing for Time Series(ETS) Forecasting: https://www.geeksforgeeks.org/artificial-intelligence/exponential-smoothing-for-time-series-forecasting/
